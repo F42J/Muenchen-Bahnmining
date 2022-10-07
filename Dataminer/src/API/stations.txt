@@ -1,0 +1,150 @@
+8004135:München Marienplatz
+8004140:München-Allach
+8000524:Altenerding
+8000556:Altomünster
+8000603:Arnbach
+8004141:München-Aubing
+8000653:Aufhausen(b Erding)
+8000675:Aying
+8000685:Bachern
+8000781:Baierbrunn
+8000785:Baldham
+8004142:München-Berg am Laim
+8001229:Buchenau(Oberbay)
+8001231:Buchenhain
+8001354:Dachau Bahnhof
+8001355:Dachau Stadt
+8004143:München-Daglfing
+8001404:Deisenhofen
+8004128:München Donnersbergerbrücke
+8001578:Dürrnhaar
+8001621:Ebenhausen-Schäftlarn
+8001634:Ebersberg(Oberbay)
+8001647:Eching
+8001682:Eglharting
+8001702:Eichenau(Oberbay)
+8004144:München-Englschalking
+8001825:Erding
+8001829:Erdweg
+8001996:Esting
+8001963:Fasanenpark
+8004145:München-Fasanerie
+8004146:München-Fasangarten
+8001970:Feldafing
+8001973:Feldkirchen(b München)
+8004147:München-Feldmoching
+8004167:München Flughafen Besucherpark
+8004168:München Flughafen Terminal
+8004181:München-Freiham
+8002078:Freising
+8002141:Fürstenfeldbruck
+8002161:Furth(b Deisenhofen)
+8002198:Gauting
+8002210:Geisenbrunn
+8000119:Geltendorf
+8006006:Germering-Unterpfaffenhofen
+8002247:Gernlinden
+8004148:München-Giesing
+8002275:Gilching-Argelsried
+8002339:Gräfelfing
+8002347:Grafing Bahnhof
+8002348:Grafing Stadt
+8002351:Grafrath
+8002377:Gröbenzell
+8002383:Gronsdorf
+8002420:Großhelfendorf
+8002422:Großhesselohe Isartalbf
+8002435:Grub(Oberbay)
+8002491:Haar
+8004129:München Hackerbrücke
+8002534:Hallbergmoos
+8004130:München Harras
+8002610:Harthaus
+8000261:München Hbf
+8006189:Hebertshausen
+8005419:München Heimeranplatz
+8002715:Heimstetten
+8002792:Herrsching
+8004179:München Hirschgarten
+8002940:Hohenbrunn
+8002894:Höhenkirchen-Siegertsbrunn
+8002955:Hohenschäftlarn
+8002899:Höllriegelskreuth
+8002980:Holzkirchen
+8003039:Icking
+8004131:München Isartor
+8003092:Ismaning
+8004149:München-Johanneskirchen
+8004150:München-Karlsfeld
+8004132:München Karlsplatz
+8003290:Kirchseeon
+8003317:Kleinberghofen
+8003438:Kreuzstraße
+8004151:München-Laim
+8004152:München-Langwied
+8004133:München Leienfelsstr.
+8004134:München Leuchtenbergring
+8003720:Lochham
+8004153:München-Lochhausen
+8003735:Lohhof
+8003824:Maisach
+8003828:Malching(Oberbay)
+8004204:Mammendorf
+8003072:Markt Indersdorf
+8003879:Markt Schwaben
+8004154:München-Mittersendling
+8004155:Moosach
+8004350:Mühltal
+8004156:München-Neuaubing
+8004252:Neubiberg
+8004279:Neufahrn(b Freising)
+8004249:Neugilching
+8006696:München-Neuperlach Süd
+8004404:Niederroth
+8004157:München-Obermenzing
+8004580:Oberschleißheim
+8004667:Olching
+8000262:München Ost
+8004723:Ottenhofen(Oberbay)
+8004726:Otterfing
+8004733:Ottobrunn
+8004158:München-Pasing
+8004761:Peiß
+8004159:München-Perlach
+8004775:Petershausen(Obb)
+8004827:Planegg
+8004854:Poing
+8004874:Possenhofen
+8004893:Puchheim
+8004899:Pullach
+8004900:Pulling(b Freising)
+8004160:München-Riem
+8005127:Röhrmoos
+8004136:München Rosenheimer Platz
+8005299:Sauerlach
+8005406:Schöngeising
+8005442:Schwabhausen(b Dachau)
+8005504:Seefeld-Hechendorf
+8004137:München Siemenswerke
+8004161:München-Solln
+8005676:Starnberg
+8005675:Starnberg Nord
+8005699:Steinebach
+8005652:St Koloman
+8004138:München St.Martin-Str.
+8005735:Stockdorf
+8005831:Taufkirchen
+8004162:München-Trudering
+8005920:Türkenfeld
+8005927:Tutzing
+8005986:Unterföhring
+8005991:Unterhaching
+8004139:München-Untermenzing
+8006688:Unterschleißheim
+8006059:Vaterstetten
+8001922:Vierkirchen-Esterhofen
+8006131:Wächterhof
+8006359:Weßling(Oberbay)
+8004163:München-Westkreuz
+8006550:Wolfratshausen
+8006671:Zorneding

@@ -1,5 +1,5 @@
 session:
-  Timetable:
+  API.APIHandler:
     host: apis.deutschebahn.com
     user: [BAHN-API-USER]
     secret: [BAHN-API-SECRET]
