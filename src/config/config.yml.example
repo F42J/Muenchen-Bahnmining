@@ -1,0 +1,9 @@
+session:
+  Timetable:
+    host: apis.deutschebahn.com
+    user: [BAHN-API-USER]
+    secret: [BAHN-API-SECRET]
+  MySQL:
+    host: [DB-HOST]
+    user: [DB-USER]
+    secret: [DB-PASSWORD]
